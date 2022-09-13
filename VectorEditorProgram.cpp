@@ -1,11 +1,13 @@
 #include <iostream>
 #include <vector>
 #include <string>
-using namespace std;
+using namespace std; 
+//start of function prototypes
 void print_vector(vector <string>stooges);
 char getselection();
 void display();
 void change_vector(vector <string> &stooges,string first_vector,string second_vector,string third_vector);
+//end of function prototypes
 int main(){
   string first_vector{};
   string second_vector{};
