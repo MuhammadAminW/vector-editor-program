@@ -13,7 +13,7 @@ int main(){
   string second_vector{};
   string third_vector{};
 
-  vector <string> stooges{"larry","moe","adiba"};
+  vector <string> stooges{"larry","moe","curly"};
 char selection{};
 do{
   display();
